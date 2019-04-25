@@ -1,0 +1,8 @@
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp2.1\CSVDemo.deps.json
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp2.1\CSVDemo.runtimeconfig.json
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp2.1\CSVDemo.runtimeconfig.dev.json
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp2.1\CSVDemo.dll
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp2.1\CSVDemo.csprojAssemblyReference.cache
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp2.1\CSVDemo.csproj.CoreCompileInputs.cache
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp2.1\CSVDemo.AssemblyInfoInputs.cache
+C:\Users\akari\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp2.1\CSVDemo.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+C:\Users\akari\source\repos\CSVDemo\csvConsole\bin\Debug\csvConsole.exe.config
+C:\Users\akari\source\repos\CSVDemo\csvConsole\bin\Debug\csvConsole.exe
+C:\Users\akari\source\repos\CSVDemo\csvConsole\bin\Debug\csvConsole.pdb
+C:\Users\akari\source\repos\CSVDemo\csvConsole\obj\Debug\csvConsole.csprojAssemblyReference.cache
+C:\Users\akari\source\repos\CSVDemo\csvConsole\obj\Debug\csvConsole.csproj.CoreCompileInputs.cache
+C:\Users\akari\source\repos\CSVDemo\csvConsole\obj\Debug\csvConsole.csproj.CopyComplete
+C:\Users\akari\source\repos\CSVDemo\csvConsole\obj\Debug\csvConsole.exe
+C:\Users\akari\source\repos\CSVDemo\csvConsole\obj\Debug\csvConsole.pdb
+C:\Users\akari\source\repos\CSVDemo\csvConsole\bin\Debug\CsvHelper.dll
+C:\Users\akari\source\repos\CSVDemo\csvConsole\bin\Debug\System.ValueTuple.dll
+C:\Users\akari\source\repos\CSVDemo\csvConsole\bin\Debug\CsvHelper.xml
+C:\Users\akari\source\repos\CSVDemo\csvConsole\bin\Debug\System.ValueTuple.xml
